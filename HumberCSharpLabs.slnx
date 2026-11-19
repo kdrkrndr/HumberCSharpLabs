@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="PaymentProcessor/PaymentProcessor.csproj" Id="32cd91fd-c4a8-4f99-9da5-37f9b909acb6" />
+  <Project Path="StudentReport/StudentReport.csproj" />
   <Project Path="TodoListManager/TodoListManager.csproj" />
 </Solution>
